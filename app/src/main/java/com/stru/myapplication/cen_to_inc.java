@@ -29,7 +29,7 @@ public class cen_to_inc extends AppCompatActivity {
             public void onClick(View v) {
                 try{
                     Double centi;
-                    centi = Double.parseDouble(cen.getText().toString())*39.37;
+                    centi = Double.parseDouble(cen.getText().toString())/2.54;
                     inc.setText(""+centi+"”");
                 } catch (Exception e){
                     Toast.makeText(getApplicationContext(), "Ingrese un valor valido",Toast.LENGTH_SHORT).show();
