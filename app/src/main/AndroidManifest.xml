@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.stru.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".inc_to_cen"></activity>
+        <activity android:name=".cen_to_inc" />
+        <activity android:name=".met_to_cen" />
+        <activity android:name=".cen_to_met" />
+        <activity android:name=".kel_to_cel" />
+        <activity android:name=".cel_to_kel" />
+        <activity android:name=".Celcius_to_farenheit" />
+        <activity android:name=".far_to_cel" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

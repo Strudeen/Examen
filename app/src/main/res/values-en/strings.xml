@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Units Converter</string>
+    <string name="app_name1">Celsius to Fahrenheit</string>
+    <string name="app_name2">Fahrenheit to Celsius</string>
+    <string name="app_name3">Celsius to Kelvin</string>
+    <string name="app_name4">Kelvin to Celsius</string>
+    <string name="app_name5">Centimetro a Metro</string>
+    <string name="app_name6">Meter to Centimeter</string>
+    <string name="app_name7">Inch to Centimeter</string>
+    <string name="app_name8">Centimeter to Inch</string>
+    <string name="c">Celsius to Fahrenheit</string>
+    <string name="f">Fahrenheit to Celsius</string>
+    <string name="k">Celsius to Kelvin</string>
+    <string name="ck">Kelvin to Celsius</string>
+    <string name="unid">Units of temperature </string>
+    <string name="unid2">Units of distance </string>
+    <string name="calcular">Calculate</string>
+    <string name="unids">Units</string>
+    <string name="resultado">Result</string>
+
+    <string name="cm">Centimeter to Meter</string>
+    <string name="mc">Meter to Centimeter</string>
+
+</resources>

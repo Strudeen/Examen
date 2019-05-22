@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Conversor de unidades</string>
+    <string name="app_name1">Celsius a Fahrenheit</string>
+    <string name="app_name2">Fahrenheit a Celsius</string>
+    <string name="app_name3">Celsius a Kelvin</string>
+    <string name="app_name4">Kelvin a Celsius</string>
+    <string name="app_name5">Centimetro a Metro</string>
+    <string name="app_name6">Metro a Centimetro</string>
+    <string name="app_name7">Centimetro a Pulgada</string>
+    <string name="app_name8">Pulgada a Centimetro</string>
+    <string name="c">Celcios a Fahrenheit</string>
+    <string name="f">Fahrenheit a Celcios</string>
+    <string name="k">Celcios a Kelvin</string>
+    <string name="ck">Kelvin a Celcios</string>
+    <string name="unid">Unidades de temperatura</string>
+    <string name="unid2">Unidades de distancia </string>
+    <string name="calcular">Calular</string>
+    <string name="unids">Unidades</string>
+    <string name="resultado">Resultado</string>
+    <string name="cm">Centimetro a Metro</string>
+    <string name="mc">Metro a Centimetro</string>
+
+
+</resources>
