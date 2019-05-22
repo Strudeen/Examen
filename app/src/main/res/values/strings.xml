@@ -8,10 +8,10 @@
     <string name="app_name6">Metro a Centimetro</string>
     <string name="app_name7">Centimetro a Pulgada</string>
     <string name="app_name8">Pulgada a Centimetro</string>
-    <string name="c">Celcios a Fahrenheit</string>
-    <string name="f">Fahrenheit a Celcios</string>
-    <string name="k">Celcios a Kelvin</string>
-    <string name="ck">Kelvin a Celcios</string>
+    <string name="c">Celsius a Fahrenheit</string>
+    <string name="f">Fahrenheit a Celsius</string>
+    <string name="k">Celsius a Kelvin</string>
+    <string name="ck">Kelvin a Celsius</string>
     <string name="unid">Unidades de temperatura</string>
     <string name="unid2">Unidades de distancia </string>
     <string name="calcular">Calular</string>
